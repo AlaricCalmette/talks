@@ -1,8 +1,0 @@
-{
-  "name": "examples",
-  "version": "1.0.0",
-  "dependencies": {
-    "generate-object-property": "^1.2.0"
-  },
-  "devDependencies": {}
-}
